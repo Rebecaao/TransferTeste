@@ -1,0 +1,11 @@
+C:\Users\rebeca\source\repos\Transfer\Transfer\bin\Debug\Transfer.exe.config
+C:\Users\rebeca\source\repos\Transfer\Transfer\bin\Debug\Transfer.exe
+C:\Users\rebeca\source\repos\Transfer\Transfer\bin\Debug\Transfer.pdb
+C:\Users\rebeca\source\repos\Transfer\Transfer\obj\Debug\Transfer.csproj.AssemblyReference.cache
+C:\Users\rebeca\source\repos\Transfer\Transfer\obj\Debug\Transfer.csproj.SuggestedBindingRedirects.cache
+C:\Users\rebeca\source\repos\Transfer\Transfer\obj\Debug\Transfer.Form1.resources
+C:\Users\rebeca\source\repos\Transfer\Transfer\obj\Debug\Transfer.Properties.Resources.resources
+C:\Users\rebeca\source\repos\Transfer\Transfer\obj\Debug\Transfer.csproj.GenerateResource.cache
+C:\Users\rebeca\source\repos\Transfer\Transfer\obj\Debug\Transfer.csproj.CoreCompileInputs.cache
+C:\Users\rebeca\source\repos\Transfer\Transfer\obj\Debug\Transfer.exe
+C:\Users\rebeca\source\repos\Transfer\Transfer\obj\Debug\Transfer.pdb
